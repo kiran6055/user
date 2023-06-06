@@ -83,3 +83,4 @@ affinity: {}
 
 schema:
   enabled: true
+  schema_type: mongodb
